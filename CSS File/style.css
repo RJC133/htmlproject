@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<style>
+body {background-color: #fafad2;
+width: 840px;
+margin:auto
+}
+
+h1   {
+color: MidnightBlue;
+font-family: 'courier new', monospace;
+font-size: 400%;
+text-align: center;
+margin: 0
+}
+
+h2   {
+color: MidnightBlue;
+font-family: helvetica;
+font-size: 100%;
+text-align: center;
+margin: 0;
+padding: 5px
+}
+
+h3  {
+color: 	#483d8b;
+font-family: helvetica;
+font-size: 300%;
+text-align: center;
+padding: 10px;
+margin: 0
+}
+
+p1 {
+color: black;
+font-family: helvetica;
+font-size: 100%;
+text-align: center;
+padding: 10px;
+margin: 0
+}
+
+h4 {
+color: SteelBlue;
+font-family: helvetica;
+font-size: 150%;
+text-align: left;
+padding: 10px;
+margin: 0
+}
+
+h5 {
+color: 	#87cefa;
+font-family:helvetica;
+font-size: 200%;
+text-align: left;
+padding: 10px;
+margin: 0
+}
+
+h6 {
+color: SteelBlue;
+font-family: helvetica;
+font-size: 150%;
+text-align: left;
+padding: 10px;
+margin: 0
+}
+
+a {
+  color: #8f8fff;
+}
+ul {
+color: #87cefa;
+font-family: helvetica;
+font-size: 100%;
+text-align: left;
+padding: 10px;
+margin: 0
+}
+
+li {
+color: #87cefa;
+font-family: helvetica;
+font-size: 150%;
+text-align: left;
+padding: 3px;
+margin: 0
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+
+</head>
